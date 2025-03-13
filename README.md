@@ -6,9 +6,11 @@ A Flutter based expense tracker app.
 - Fake confidants system with achievements simulation
 - Using Hive for the backend
 
-  Bugs:
-  -Need to click description again to add expenses
-  -Background box in report_screen needs adjustment since the size is too large for Android Display
+Bugs
+
+- Need to click description again to add expenses
+- Background box in report_screen needs adjustment since the size is too large for Android Display
+- And a lot of other stuff I probably don't know
   
 Written 40% by me (no cap), but I gave up halfway because it's annoying and just feed it to DeepSeek to finish everything up (my bad)
 
