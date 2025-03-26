@@ -12,7 +12,7 @@ Bugs
 - Background box in report_screen needs adjustment since the size is too large for Android Display
 - And a lot of other stuff I probably don't know
   
-Written 40% by me (no cap), but I gave up halfway because it's annoying and just feed it to DeepSeek to finish everything up (my bad)
+
 
 ![image](https://github.com/user-attachments/assets/811fd0e7-4fb4-4b78-ae16-9f7b58987eee)
 ![image](https://github.com/user-attachments/assets/2aef0656-2beb-4831-a091-33ba0ff1d194)
